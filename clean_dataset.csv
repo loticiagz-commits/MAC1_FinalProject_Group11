@@ -1,0 +1,567 @@
+company_name,job_title,salary,experience_level,employment_type,company_size,work_arrangement,city,salary_capped
+Pluxee Philippines Incorporated,Local Cybersecurity Officer,75000.0,Mid-Level,Full-Time,Medium,Hybrid,Makati,75000.0
+Private Advertiser,SOC Analyst (Tier 1),27500.0,Entry-Level,Contract,Enterprise,Remote,Manila,27500.0
+Strategem Ventures Management Inc.,Cyber Security Engineer,21500.0,Entry-Level,Full-Time,Medium,Onsite,Manila,21500.0
+Asiatel Outsourcing,Cybersecurity Engineer,57500.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,57500.0
+Emapta,Cyber Security Operations Analyst,200000.0,Senior,Full-Time,Large,Hybrid,Mandaluyong,182500.0
+BLADEGRASS TECHNOLOGIES INC.,Security Operation Center (SOC) Analyst,45000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,45000.0
+A.G. Datacom Phils. Inc.,Technical Engineer (Cybersecurity),30000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,30000.0
+Eastvantage Business Solutions Inc.,Cybersecurity Compliance Analyst (ISO 27001),62500.0,Mid-Level,Full-Time,Large,Hybrid,Taguig,62500.0
+iXsystems,Cybersecurity Specialist,148380.0,Senior,Full-Time,Medium,Onsite,Makati,148380.0
+KMZD GROUP,Cybersecurity Engineer,95000.0,Senior,Full-Time,Enterprise,Onsite,Manila,95000.0
+Electronic Transfer and Advance Processing Inc.,Information Security Analyst,45000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,45000.0
+Cambridge University Press & Assessment,Senior Security Analyst,123000.0,Senior,Full-Time,Large,Hybrid,Makati,123000.0
+Netrust Philippines Corporation,SOC Analyst - Level 2,40000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,40000.0
+Total Information Management Corp.,Offensive Security Engineer (VAPT),42500.0,Mid-Level,Full-Time,Large,Onsite,Makati,42500.0
+GECO Asia Pte. Ltd,Cybersecurity and Governance & Risk Consultant,140000.0,Senior,Full-Time,Medium,Hybrid,Manila,140000.0
+Microbase Inc,Infrastructure and Cybersecurity Support,27500.0,Entry-Level,Full-Time,Large,Onsite,Manila,27500.0
+Ascent Solutions Philippines Inc.,Security Specialist,90000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,90000.0
+KMZD GROUP,Security Operations Analyst - Endpoint & Vulnerability Management,80000.0,Mid-Level,Full-Time,Enterprise,Hybrid,Manila,80000.0
+"Sourcefit Philippines, Inc.",Security Specialist | WFH (A-VEIT),75000.0,Mid-Level,Full-Time,Large,Remote,Quezon City,75000.0
+"Sourcefit Philippines, Inc.",Cybersecurity & Compliance Consultant - ONSITE (A-ACY),110000.0,Senior,Full-Time,Large,Onsite,Quezon City,110000.0
+"Trends Group, Inc.",SOC L2 Incident Responder,45000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,45000.0
+"Global Payments Process Centre, Inc.",Senior Endpoint Security Analyst,125000.0,Senior,Full-Time,Large,Onsite,Quezon City,125000.0
+APW Tech,Lead IT Analyst - Cyber Hygiene (Security),120000.0,Senior,Full-Time,Medium,Hybrid,Pasig,120000.0
+D2B,AP - AI Security Expert (Remote),65000.0,Mid-Level,Full-Time,Enterprise,Remote,Manila,65000.0
+"Rising Tide Digital, Inc.",Senior Cyber Hygiene Engineer,115000.0,Senior,Contract,Enterprise,Onsite,Manila,115000.0
+Kroll Global Solutions Inc.,"Security Analyst, InfoSec",55000.0,Mid-Level,Full-Time,Large,Onsite,Manila,55000.0
+"MediCard Phils., Inc.",Cybersecurity Architect,140000.0,Senior,Full-Time,Large,Onsite,Makati,140000.0
+Asian Terminals Inc.,IT Security Analyst,45000.0,Mid-Level,Full-Time,Large,Onsite,Makati,45000.0
+"VCC Link, Inc.",Cybersecurity Senior Analyst,80000.0,Senior,Full-Time,Medium,Hybrid,Manila,80000.0
+Supply Chimp,SOC Analyst Level 2 - Permanent WFH,72500.0,Mid-Level,Full-Time,Enterprise,Remote,Manila,72500.0
+OFFSHORE BUSINESS PROCESSING INC.,SOC Lead,52500.0,Senior,Full-Time,Large,Onsite,Pasig,52500.0
+"Rising Tide Digital, Inc.",Senior Offensive Security Engineer - IT Banking,125000.0,Senior,Full-Time,Enterprise,Onsite,Taguig,125000.0
+Private Advertiser,SOC Analyst (Tier 2),47500.0,Mid-Level,Contract,Enterprise,Remote,Manila,47500.0
+"Rising Tide Digital, Inc.",Senior Qualys Administrator - Vulnerability Management,85000.0,Senior,Full-Time,Enterprise,Onsite,Manila,85000.0
+Converge Studios Inc.,SOC Analyst Level 2,37500.0,Mid-Level,Full-Time,Enterprise,Onsite,Quezon City,37500.0
+Converge Studios Inc.,IT Project Manager - (Cybersecurity),75000.0,Senior,Full-Time,Enterprise,Onsite,Quezon City,75000.0
+Rising Tide Digital Inc.,Senior AI Security Operations Engineer,95000.0,Senior,Full-Time,Enterprise,Onsite,Taguig,95000.0
+Strategic Synergy Inc.,Sr. Security Engineer,42500.0,Senior,Full-Time,Enterprise,Onsite,Makati,42500.0
+ConnectWise Outsourcing Services,Senior Network Security Engineer,122500.0,Senior,Full-Time,Large,Onsite,Makati,122500.0
+DAPL IT Services,Security Architect,135000.0,Senior,Full-Time,Medium,Onsite,Taguig,135000.0
+Next Generation Technologies Global Inc.,Senior Security Solutions Engineer,40000.0,Senior,Full-Time,Medium,Onsite,Manila,40000.0
+Offshore Business Processing,SOC Lead,52500.0,Senior,Full-Time,Large,Onsite,Pasig,52500.0
+"Beacon Solutions, Inc.",Network & Security Engineer II,31000.0,Mid-Level,Full-Time,Medium,Hybrid,Quezon City,31000.0
+Next Generation Technologies Global Inc.,Security Solutions Engineer,37500.0,Mid-Level,Full-Time,Large,Onsite,Manila,37500.0
+Offshore Business Processing,SOC Lead,52500.0,Senior,Full-Time,Medium,Onsite,Pasig,52500.0
+Next Generation Technologies Global Inc.,Security Solutions Engineer,37500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,37500.0
+Converge Studios Inc.,SOC Analyst Level 2,37500.0,Mid-Level,Full-Time,Small,Onsite,Quezon City,37500.0
+Converge Studios Inc.,IT Project Manager - (Cybersecurity),75000.0,Senior,Full-Time,Small,Onsite,Quezon City,75000.0
+Rising Tide Digital Inc.,Senior AI Security Operations Engineer,95000.0,Senior,Full-Time,Small,Onsite,Taguig,95000.0
+Strategic Synergy Inc.,Sr. Security Engineer,42500.0,Senior,Full-Time,Small,Onsite,Makati,42500.0
+A.G. Datacom Phils.,Technical Engineer (Cybersecurity),30000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,30000.0
+City People Solutions,Cybersecurity Analyst - VAPT,72500.0,Mid-Level,Full-Time,Unknown,Onsite,Pasig,72500.0
+TruENAS,Cybersecurity Specialist,148380.5,Senior,Full-Time,Unknown,Onsite,Makati,148380.5
+Next Generation Technologies Global Inc.,"SOC Analyst (New Manila, Quezon City)",37500.0,Mid-Level,Full-Time,Unknown,Onsite,Quezon City,37500.0
+Workscale Resources Inc.,SOC Analyst / Cybersecurity Analyst,60000.0,Mid-Level,Full-Time,Unknown,Onsite,Mandaluyong,60000.0
+Xtreme Offshore Outsourcing Inc.,Cyber Security Analyst,40000.0,Mid-Level,Full-Time,Unknown,Onsite,Makati,40000.0
+"Siegen HR Solutions, Inc.",Cyber Security Engineer (SIEM),170000.0,Senior,Full-Time,Unknown,Onsite,Quezon City,170000.0
+Converge Studios Inc.,SOC Analyst L1,27500.0,Entry-Level,Full-Time,Unknown,Onsite,Quezon City,27500.0
+Pluxee Philippines Incorporated,Local Cybersecurity Officer,75000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,75000.0
+Advanced Outsourcing and Business Services Inc.,Associate Cybersecurity Officer,50000.0,Entry-Level,Full-Time,Medium,Onsite,Makati,50000.0
+"Outtask HR Services, Inc.",Security System Support Technician (Remote),72500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,72500.0
+KMZD GROUP,Cybersecurity Engineer,95000.0,Senior,Full-Time,Medium,Onsite,Manila,95000.0
+Ascent Solutions Philippines Inc.,Security Specialist,90000.0,Senior,Full-Time,Medium,Onsite,Manila,90000.0
+Private Advertiser,SOC Analyst (Tier 1),27500.0,Entry-Level,Contract,Medium,Onsite,Manila,27500.0
+"Trends Group, Inc.",SOC L1 Analyst,35000.0,Entry-Level,Full-Time,Large,Onsite,Makati,35000.0
+Emapta,Cyber Security Operations Analyst,150000.0,Senior,Full-Time,Large,Onsite,Mandaluyong,150000.0
+Questronix Corporation,Cybersecurity Engineer,50000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,50000.0
+ESCA Incorporated,ICT Specialist (Cyber Security),32500.0,Entry-Level,Full-Time,Medium,Onsite,Mandaluyong,32500.0
+Emapta,Information Security Risk Analyst,150000.0,Senior,Full-Time,Large,Onsite,Mandaluyong,150000.0
+Gratitude Philippines,SailPoint Engineer - Associate Manager (Identity Security),110000.0,Mid-Level,Full-Time,Large,Onsite,Manila,110000.0
+KPMG R.G. Manabat & Co.,Cybersecurity Manager,130000.0,Senior,Full-Time,Large,Onsite,Makati,130000.0
+BLADEGRASS TECHNOLOGIES INC.,Cybersecurity Engineer/Security Engineer,52500.0,Mid-Level,Contract,Medium,Onsite,Manila,52500.0
+Gratitude Philippines,Security Penetration Tester,85000.0,Senior,Full-Time,Large,Onsite,Manila,85000.0
+Filinvest Business Services Corporation,IT Security Associate,40000.0,Entry-Level,Full-Time,Large,Onsite,Manila,40000.0
+"ePLDT, Inc.",Cybersecurity Analyst (GRC-Focused),65000.0,Mid-Level,Full-Time,Large,Onsite,Makati,65000.0
+BLADEGRASS TECHNOLOGIES INC.,Security Operation Center (SOC) Analyst,45000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,45000.0
+Teleperformance,Information Security Engineer I,55000.0,Mid-Level,Full-Time,Enterprise,Onsite,Makati,55000.0
+"Trends Group, Inc.",TIP/VM Engineer,60000.0,Mid-Level,Full-Time,Large,Onsite,Makati,60000.0
+Asticom Technology Inc,Cybersecurity Delivery Lead,125000.0,Senior,Contract,Large,Onsite,Quezon City,125000.0
+TELUS Digital,Security Analyst,50000.0,Mid-Level,Full-Time,Enterprise,Onsite,Manila,50000.0
+Intertek Testing Services Philippines Incorporated,Cyber Security - Defender XDR Specialist,95000.0,Senior,Contract,Large,Onsite,Makati,95000.0
+Arcanys,Security Engineer (Fractional),70000.0,Mid-Level,Part-Time,Medium,Onsite,Manila,70000.0
+Microgenesis Business Systems,Systems Engineer - IT Security,65000.0,Mid-Level,Full-Time,Medium,Onsite,Mandaluyong,65000.0
+Accenture,Security Managed Services Practitioner,95000.0,Mid-Level,Full-Time,Enterprise,Onsite,Manila,95000.0
+Cloudstaff Philippines Inc.,Security Operations Engineer I,60000.0,Mid-Level,Full-Time,Large,Onsite,Manila,60000.0
+"Twoconnect Philippines, Inc.",Cybersecurity Strategy Lead,130000.0,Senior,Full-Time,Medium,Onsite,Manila,130000.0
+Eastvantage Business Solutions Inc.,Cybersecurity Compliance Analyst (ISO 27001),62500.0,Mid-Level,Full-Time,Large,Onsite,Taguig,62500.0
+TransUnion Information Solutions Inc.,Information Security Officer (Junior Level),45000.0,Entry-Level,Full-Time,Large,Onsite,Makati,45000.0
+"Eclaro Business Solutions, Inc",Senior Kubernetes Security Engineer with AI Automation experience,152500.0,Senior,Full-Time,Medium,Onsite,Manila,152500.0
+"Equicom Savings Bank, Inc.",Information Security Officer,90000.0,Senior,Full-Time,Large,Onsite,Makati,90000.0
+KMZD GROUP,Security Operations Analyst - Endpoint & Vulnerability Management,80000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,80000.0
+"Eclaro Business Solutions, Inc",Senior Databricks Security Engineer & AI Automation Engineer,152500.0,Senior,Full-Time,Large,Onsite,Manila,152500.0
+Arcadis Consulting Middle East Limited,Vulnerability Engineer,90000.0,Mid-Level,Full-Time,Large,Onsite,Makati,90000.0
+Private Advertiser,SOC Analyst (Tier 2),47500.0,Mid-Level,Contract,Medium,Onsite,Manila,47500.0
+Supply Chimp,SOC Analyst Level 2 - Permanent WFH,72500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,72500.0
+"VCC Link, Inc.",Cybersecurity Senior Analyst,80000.0,Senior,Full-Time,Medium,Onsite,Manila,80000.0
+Ben Edictio Corp,Security Analyst,60000.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,60000.0
+Cardinal Health International Philippines Inc.,"Engineer, Workforce Identity & Access Management - Okta",85000.0,Mid-Level,Full-Time,Large,Onsite,Manila,85000.0
+Private Advertiser,Systems and Security Specialist,65000.0,Mid-Level,Full-Time,Medium,Onsite,Mandaluyong,65000.0
+Private Advertiser,Security Cloud Security Engineer,77500.0,Senior,Full-Time,Medium,Onsite,Makati,77500.0
+"Bounty Fresh Food, Inc.",Security Operations Center (SOC) Analyst,50000.0,Entry-Level,Full-Time,Large,Onsite,Manila,50000.0
+SB Finance,Information Security Intern,20000.0,Entry-Level,Contract,Medium,Onsite,Makati,20000.0
+Electronic Transfer and Advance Processing Inc.,Information Security Analyst,45000.0,Entry-Level,Full-Time,Medium,Onsite,Makati,45000.0
+"Rising Tide Digital, Inc.",Senior Qualys Administrator - Vulnerability Management,85000.0,Senior,Full-Time,Medium,Onsite,Manila,85000.0
+Cambridge University Press & Assessment | Manila,Senior Security Analyst,123000.0,Senior,Full-Time,Large,Onsite,Makati,123000.0
+GECO Asia Pte. Ltd,Cybersecurity GRC Specialist,110000.0,Mid-Level,Full-Time,Medium,Onsite,Taguig,110000.0
+Satellite Office,SOC Analyst,55000.0,Entry-Level,Full-Time,Large,Onsite,Pasig,55000.0
+Manulife Global Solutions (MGS),Cybersecurity Manager,140000.0,Senior,Full-Time,Enterprise,Onsite,Quezon City,140000.0
+ReSource Pro Operational Solutions Philippines Inc.,Senior Specialist Information Security,100000.0,Senior,Full-Time,Large,Onsite,Mandaluyong,100000.0
+GECO Asia Pte. Ltd,Cybersecurity and Governance & Risk Consultant,140000.0,Senior,Full-Time,Medium,Onsite,Manila,140000.0
+Cloudstaff Philippines Inc.,Senior Threat Intelligence Analyst,110000.0,Senior,Full-Time,Large,Onsite,Makati,110000.0
+"Rising Tide Digital, Inc.",Senior Offensive Security Engineer - IT Banking,125000.0,Senior,Full-Time,Medium,Onsite,Taguig,125000.0
+"Rising Tide Digital, Inc.",Senior Cyber Hygiene Engineer,115000.0,Senior,Contract,Medium,Onsite,Manila,115000.0
+Kroll Global Solutions Inc.,Network Security Engineer,90000.0,Mid-Level,Full-Time,Large,Onsite,Makati,90000.0
+OFFSHORE BUSINESS PROCESSING INC.,SOC Lead,52500.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,52500.0
+"GUR LAVI, CORP.",Security Engineering Specialist,85000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,85000.0
+Emapta,Information Security Program Lead,500000.0,Executive,Full-Time,Large,Onsite,Mandaluyong,182500.0
+"REMOTE STAFF, INC.",Security Engineer,47500.0,Mid-Level,Full-Time,Medium,Onsite,Makati,47500.0
+ATS CONSULTING SERVICES PH INC.,IAM ANALYST/ DATA PRIVACY ANALYST,60000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,60000.0
+Accenture,Security Engineer (Google SecOps),95000.0,Mid-Level,Full-Time,Enterprise,Onsite,Manila,95000.0
+Cardinal Health International Philippines Inc.,Workforce Identity and Access Management Engineer - Okta / Sailpoint,90000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,90000.0
+IBEX Global Solutions (Philippines) Inc.,IT Security - Assistant Manager,110000.0,Senior,Full-Time,Large,Onsite,Mandaluyong,110000.0
+"Rising Tide Digital, Inc.",Senior Offensive Security Engineer,125000.0,Senior,Full-Time,Medium,Onsite,Taguig,125000.0
+ORIX METRO Leasing and Finance Corporation,Network and Security Administrator,65000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,65000.0
+OFFSHORE BUSINESS PROCESSING INC.,SOC Lead,52500.0,Mid-Level,Full-Time,Large,Onsite,Manila,52500.0
+OFFSHORE BUSINESS PROCESSING INC.,Lead SOC Analyst,52500.0,Senior,Full-Time,Large,Onsite,Manila,52500.0
+iCare HMO,Identity & Access Management Analyst,60000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,60000.0
+"Rising Tide Digital, Inc.",Senior Cyber Security Engineer,125000.0,Senior,Contract,Medium,Onsite,Manila,125000.0
+"John Clements Consultants, Inc.",IT Security Manager,135000.0,Senior,Full-Time,Medium,Onsite,Makati,135000.0
+"Rising Tide Digital, Inc.",Senior Application Security Engineer (Penetration Testing & Offensive AI),92500.0,Senior,Full-Time,Medium,Onsite,Taguig,92500.0
+"Rising Tide Digital, Inc.",Senior Security Engineer (AI Driven SOC Engineer),95000.0,Senior,Full-Time,Medium,Onsite,Taguig,95000.0
+E-team Workforce Private Corporation,Azure Cloud Security Architect,177500.0,Senior,Contract,Medium,Onsite,Taguig,177500.0
+TELUS Digital Philippines,Systems Security Manager,150000.0,Senior,Full-Time,Large,Onsite,Pasig,150000.0
+"Tenet Global Business Center, Inc.","Data Scientist, Cybersecurity (Audit Readiness)",110000.0,Senior,Full-Time,Large,Onsite,Taguig,110000.0
+PwC Acceleration Center Manila,IAM Senior Associate (Engineers and Specialists),95000.0,Mid-Level,Full-Time,Enterprise,Onsite,Taguig,95000.0
+"John Clements Consultants, Inc.",Security Operation SIEM Consultant,105000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,105000.0
+Amkor Worldwide Services LLC-ROHQ,SOC Analyst,55000.0,Entry-Level,Full-Time,Large,Onsite,Manila,55000.0
+FWD Life Insurance Corporation,Head of IT Security and Technology Governance,250000.0,Executive,Full-Time,Large,Onsite,Taguig,182500.0
+"Boehringer Ingelheim Business Services Philippines, Inc.",Senior SIEM Engineer for Cybersecurity Detection,115000.0,Senior,Full-Time,Large,Onsite,Manila,115000.0
+"John Clements Consultants, Inc.",DevSecOps Engineer (PAM & Identity Security),115000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,115000.0
+"John Clements Consultants, Inc.",Senior SIEM Engineer - SBA,137500.0,Senior,Full-Time,Medium,Onsite,Manila,137500.0
+"Boehringer Ingelheim Business Services Philippines, Inc.",Senior SIEM Engineer for Cybersecurity Detection,115000.0,Senior,Full-Time,Medium,Onsite,Manila,115000.0
+Ant Colony Resources,Cyber Security Infra Manager,52500.0,Mid-Level,Full-Time,Small,Onsite,Manila,52500.0
+Ant Colony Resources,Cyber Security Engineer,47500.0,Mid-Level,Full-Time,Small,Onsite,Pasig,47500.0
+Ant Colony Resources,Cyber Security Analyst,50000.0,Mid-Level,Full-Time,Small,Onsite,Pasig,50000.0
+Job Vacancy Phil,Cybersecurity Officer,55000.0,Mid-Level,Full-Time,Small,Onsite,Makati,55000.0
+J-K Network Services,Cyber Security Analyst,37500.0,Entry-Level,Full-Time,Medium,Onsite,Manila,37500.0
+Ant Colony Resources,Cyber Security Analyst,50000.0,Mid-Level,Full-Time,Small,Onsite,Makati,50000.0
+Ant Colony Resources,Cyber Security Specialist,50000.0,Mid-Level,Full-Time,Small,Onsite,Pasig,50000.0
+J-K Network Services,Threat Intelligence Analyst,50000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,50000.0
+Logify Inc.,SOC Analyst,70000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,70000.0
+Ant Colony Resources,Cyber Security Analyst,50000.0,Mid-Level,Full-Time,Small,Onsite,Mandaluyong,50000.0
+"Trinity Workforce Solutions, Inc.",Application Security Engineer,75000.0,Senior,Full-Time,Medium,Onsite,Makati,75000.0
+Synctalents International Corporation,Security Architect,85000.0,Mid-Level,Contract,Small,Onsite,Makati,85000.0
+J-K Network Services,Junior Vulnerability Analyst,45000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,45000.0
+J-K Network Services,Cyber Threat Analyst,47500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,47500.0
+Ant Colony Resources,Cyber Security Engineer,47500.0,Mid-Level,Full-Time,Small,Onsite,Makati,47500.0
+iSTARC Inc.,Cyber Security Specialist,55000.0,Mid-Level,Full-Time,Small,Onsite,Makati,55000.0
+Argold Jobs Inc.,Cyber Security Analyst,25000.0,Mid-Level,Full-Time,Small,Onsite,Manila,25000.0
+eTap Inc.,Information Security Analyst,45000.0,Mid-Level,Full-Time,Large,Onsite,Makati,45000.0
+CBASC Enterprises,Cyber Security Engineer,55000.0,Mid-Level,Full-Time,Small,Onsite,Mandaluyong,55000.0
+Ayuda Business Management Solutions Inc.,Cyber Security Engineer,67500.0,Senior,Full-Time,Medium,Onsite,Pasig,67500.0
+Ant Colony Resources,Cyber Security Specialist,50000.0,Mid-Level,Full-Time,Small,Onsite,Manila,50000.0
+Bravissimo Resourcing Inc.,Security Managed Services Practitioner,85000.0,Senior,Full-Time,Medium,Onsite,Manila,85000.0
+RSD Human Resource Management Consultancy,Information Security Analyst,37500.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,37500.0
+Bravissimo Resourcing Inc.,Information Security Analyst,35000.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,35000.0
+Metacom Careers,Security Engineer (SIEM & SOAR),125000.0,Senior,Full-Time,Large,Onsite,Quezon City,125000.0
+J-K Network Services,Japanese Information Security Analyst,110000.0,Mid-Level,Full-Time,Large,Onsite,Taguig,110000.0
+J-K Network Services,Cyber Security Analyst,37500.0,Entry-Level,Full-Time,Small,Onsite,Manila,37500.0
+Cornerstone International Technologies,Senior Security Engineer,32500.0,Senior,Full-Time,Small,Onsite,Manila,32500.0
+Dencom Consultancy and Manpower Services,Incident Response Analyst,112500.0,Mid-Level,Full-Time,Small,Onsite,Taguig,112500.0
+ALPHA DYNAMICS STUDIO,Remote Cybersecurity Specialist,150000.0,Entry-Level,Full-Time,Small,Onsite,Manila,150000.0
+Spark Shield Technology,Cyber Security Analyst,85000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,85000.0
+PT Infinity Micro Technology,Cyber Security Engineer,150000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,150000.0
+Gratitude Jobs Ahead HR Inc,Information Security Analyst,72500.0,Mid-Level,Full-Time,Small,Onsite,Taguig,72500.0
+Risewave Consulting Inc.,Cyber Security Analyst,92500.0,Senior,Full-Time,Medium,Onsite,Quezon City,92500.0
+Gratitude Jobs Ahead HR Inc,Application Security Engineer,60000.0,Mid-Level,Full-Time,Small,Onsite,Quezon City,60000.0
+Gratitude Jobs Ahead HR Inc,Application Security Engineer / Application Security Lead,77500.0,Mid-Level,Full-Time,Small,Onsite,Taguig,77500.0
+Gratitude Jobs Ahead HR Inc,Security Managed Services Practitioner,100000.0,Senior,Full-Time,Small,Onsite,Taguig,100000.0
+J-K Network Services,Cyber Security Analyst,47500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,47500.0
+Career Connect,Chief Information Security Officer (CISO),425000.0,Senior,Full-Time,Medium,Onsite,Taguig,182500.0
+Sourcefit Philippines Inc.,Cybersecurity Associate Consultant,60000.0,Mid-Level,Full-Time,Medium,Onsite,Quezon City,60000.0
+"Skills and Talent Employment Pool, Inc",Cyber Security Specialist,72500.0,Mid-Level,Contract,Enterprise,Onsite,Manila,72500.0
+Gratitude Jobs Ahead HR Inc,Security Operations Engineer (SIEM / Cybersecurity),125000.0,Mid-Level,Full-Time,Small,Onsite,Taguig,125000.0
+Microgenesis Business Systems,Cybersecurity Specialist,17500.0,Mid-Level,Full-Time,Medium,Onsite,Mandaluyong,17500.0
+MEC Networks Corporation,Security Engineer,45000.0,Mid-Level,Full-Time,Medium,Onsite,Quezon City,45000.0
+Ant Colony Resources,Cybersecurity Manager,50000.0,Mid-Level,Full-Time,Small,Onsite,Mandaluyong,50000.0
+Tradex Network Inc.,Cyber Security Engineer,95000.0,Senior,Full-Time,Small,Onsite,Manila,95000.0
+Sterling Global Call Center Inc.,Cyber Security Specialist,75000.0,Mid-Level,Contract,Large,Onsite,Pasig,75000.0
+Gratitude Jobs Ahead HR Inc,Sail Point IdentityIQ Specialist,90000.0,Mid-Level,Full-Time,Small,Onsite,Quezon City,90000.0
+XEye Security,Cyber Security Specialist,182500.0,Senior,Full-Time,Small,Onsite,Manila,182500.0
+TECHNO VISTA DYNAMICS,Cyber Security Specialist,55000.0,Mid-Level,Full-Time,Small,Onsite,Manila,55000.0
+TalentBuzz Recruitment Agency,Security Engineer,190000.0,Senior,Full-Time,Small,Onsite,Makati,182500.0
+J-K Network Services,Junior Vulnerability Analyst,45000.0,Entry-Level,Full-Time,Medium,Onsite,Pasig,45000.0
+Ant Colony Resources,Cyber Security Engineer,47500.0,Mid-Level,Full-Time,Small,Onsite,Manila,47500.0
+Ant Colony Resources,Cyber Security Analyst,50000.0,Mid-Level,Full-Time,Small,Onsite,Manila,50000.0
+JetSon Manpower Agency,Security Engineer,95000.0,Senior,Full-Time,Medium,Onsite,Manila,95000.0
+SGV & Co.,Cyber Security Analyst,50000.0,Mid-Level,Full-Time,Large,Onsite,Manila,50000.0
+IBM,Cyber Security Analyst,100000.0,Mid-Level,Full-Time,Large,Onsite,Manila,100000.0
+Emapta Versatile Services,Cyber Security Analyst,15000.0,Entry-Level,Full-Time,Large,Onsite,Manila,15000.0
+Confidential,Cyber Security Analyst,65000.0,Mid-Level,Full-Time,Small,Onsite,Manila,65000.0
+ePLDT,Cyber Security Analyst,27500.0,Entry-Level,Full-Time,Large,Onsite,Manila,27500.0
+Accenture,Cyber Security Analyst,62500.0,Mid-Level,Full-Time,Large,Onsite,Manila,62500.0
+EY,Cyber Security Analyst,76500.0,Mid-Level,Full-Time,Large,Onsite,Manila,76500.0
+DXC Technology,Cyber Security Analyst,38500.0,Entry-Level,Full-Time,Large,Onsite,Manila,38500.0
+Armed Forces of the Philippines,Cyber Security Consultant,112500.0,Senior,Full-Time,Large,Onsite,Manila,112500.0
+Micro Focus,Cyber Security Consultant,120500.0,Senior,Full-Time,Large,Onsite,Manila,120500.0
+Trend Micro Inc.,Cyber Security Engineer,32500.0,Entry-Level,Full-Time,Large,Onsite,Manila,32500.0
+Trend Micro Inc.,Cyber Security Analyst,59500.0,Mid-Level,Full-Time,Large,Onsite,Manila,59500.0
+PwC,Cyber Security Consultant,31500.0,Entry-Level,Full-Time,Large,Onsite,Manila,31500.0
+Deloitte,Cyber Security Consultant,27000.0,Entry-Level,Full-Time,Large,Onsite,Manila,27000.0
+EY GDS (CS) Philippines,Cyber Security Consultant,95000.0,Senior,Full-Time,Large,Onsite,Manila,95000.0
+Verizon,Cyber Security Consultant,127500.0,Senior,Full-Time,Large,Onsite,Manila,127500.0
+SGV & Co.,Cyber Security Consultant,38000.0,Entry-Level,Full-Time,Large,Onsite,Manila,38000.0
+DXC Technology,Cyber Security Consultant,168500.0,Senior,Full-Time,Large,Onsite,Manila,168500.0
+EY,Cyber Security Associate,12600.0,Entry-Level,Full-Time,Large,Onsite,Manila,12600.0
+Trend Micro Inc.,Sr. Cyber Security Engineer,66900.0,Senior,Full-Time,Large,Onsite,Manila,66900.0
+ProV International,Cyber Security Expert,149500.0,Senior,Full-Time,Medium,Onsite,Manila,149500.0
+SGV & Co.,Cyber Security Associate,53000.0,Mid-Level,Full-Time,Large,Onsite,Manila,53000.0
+Orica,Cyber Security Specialist,95500.0,Senior,Full-Time,Large,Onsite,Manila,95500.0
+AKQA Leap,Senior Cyber Security Analyst,101000.0,Senior,Full-Time,Medium,Onsite,Manila,101000.0
+Accenture,Senior Cyber Security Consultant,108300.0,Senior,Full-Time,Large,Onsite,Manila,108300.0
+EY,Senior Cyber Security Consultant,92000.0,Senior,Full-Time,Large,Onsite,Manila,92000.0
+ProV International,Cyber Security Expert,149500.0,Senior,Full-Time,Large,Onsite,Manila,149500.0
+AKQA Leap,Senior Cyber Security Analyst,101000.0,Senior,Full-Time,Large,Onsite,Manila,101000.0
+SAP,Cyber Security Specialist,59500.0,Mid-Level,Full-Time,Large,Onsite,Manila,59500.0
+Softline Group,Cyber Security Specialist,16800.0,Entry-Level,Full-Time,Large,Onsite,Manila,16800.0
+NMG Technologies,Cyber Security Specialist,35500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,35500.0
+Cyber Park,Cyber Security Specialist,15000.0,Entry-Level,Full-Time,Small,Onsite,Manila,15000.0
+Department of Information and Communications Technology,Cyber Security Officer,50000.0,Mid-Level,Full-Time,Large,Onsite,Manila,50000.0
+Theos Cyber Solutions,Cyber Security Specialist,300000.0,Senior,Full-Time,Small,Onsite,Manila,182500.0
+PNB,Cyber Security Officer,100000.0,Senior,Full-Time,Large,Onsite,Manila,100000.0
+foodpanda,Cyber Security Analyst,18500.0,Entry-Level,Full-Time,Large,Onsite,Manila,18500.0
+LSEG (London Stock Exchange Group),Cyber Security Analyst,85500.0,Mid-Level,Full-Time,Large,Onsite,Manila,85500.0
+Steadfast,Cyber Security Engineer,95500.0,Senior,Full-Time,Medium,Onsite,Manila,95500.0
+SecureOps,Cyber Security Engineer,45000.0,Mid-Level,Full-Time,Small,Onsite,Manila,45000.0
+Inspiro,Cyber Security Engineer,45000.0,Mid-Level,Full-Time,Large,Onsite,Manila,45000.0
+Tenerity,Cyber Security Engineer,63000.0,Mid-Level,Full-Time,Large,Onsite,Manila,63000.0
+cxLoyalty,Cyber Security Engineer,52400.0,Mid-Level,Full-Time,Large,Onsite,Manila,52400.0
+Optum,Cyber Security Engineer,51200.0,Mid-Level,Full-Time,Large,Onsite,Manila,51200.0
+Freelancer,Cyber Security Engineer,69500.0,Mid-Level,Full-Time,Small,Onsite,Manila,69500.0
+Union Bank of the Philippines,Cyber Security Engineer,70500.0,Mid-Level,Full-Time,Large,Onsite,Manila,70500.0
+ANZ,Cyber Security Engineer,69500.0,Mid-Level,Full-Time,Large,Onsite,Manila,69500.0
+Wisr (Australia),Cyber Security Analyst,180500.0,Senior,Full-Time,Medium,Onsite,Manila,180500.0
+Tellworks,Cyber Security Analyst,20000.0,Entry-Level,Full-Time,Large,Onsite,Manila,20000.0
+Foundever,Cyber Security Engineer,85000.0,Mid-Level,Full-Time,Large,Onsite,Manila,85000.0
+Sourcepass,Cyber Security Analyst,83100.0,Senior,Full-Time,Medium,Onsite,Manila,83100.0
+Castelis,Cyber Security Analyst,99500.0,Senior,Full-Time,Small,Onsite,Manila,99500.0
+Human Managed,Cyber Security Analyst,150500.0,Senior,Full-Time,Small,Onsite,Manila,150500.0
+Confidential,Cyber Security Analyst,66000.0,Mid-Level,Full-Time,Small,Onsite,Manila,66000.0
+ePLDT,Cyber Security Analyst,26837.0,Entry-Level,Full-Time,Large,Onsite,Manila,26837.0
+Accenture,Cyber Security Manager,10000.0,Senior,Full-Time,Large,Onsite,Manila,10000.0
+"U.S. District Court, Southern District of Ohio",Cyber Security Analyst,25000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,25000.0
+SGV & Co.,Cyber Security Consultant,39800.0,Entry-Level,Full-Time,Large,Onsite,Manila,39800.0
+ProV International,Cyber Security Expert,150000.0,Senior,Full-Time,Large,Onsite,Manila,150000.0
+WeServ,Cyber Security GRC Analyst,50000.0,Mid-Level,Full-Time,Large,Onsite,Manila,50000.0
+Broadridge,Cyber Security GRC Analyst,66786.0,Mid-Level,Full-Time,Large,Onsite,Manila,66786.0
+SGV & Co.,Cyber Security Associate,53100.0,Entry-Level,Full-Time,Large,Onsite,Manila,53100.0
+EY,Cyber Security Associate,12667.0,Entry-Level,Full-Time,Large,Onsite,Manila,12667.0
+Trend Micro Inc.,Sr. Cyber Security Engineer,66500.0,Senior,Full-Time,Large,Onsite,Manila,66500.0
+AKQA Leap,Senior Cyber Security Analyst,100500.0,Senior,Full-Time,Large,Onsite,Manila,100500.0
+Accenture,Senior Cyber Security Consultant,108333.0,Senior,Full-Time,Large,Onsite,Manila,108333.0
+Orica,Cyber Security Specialist,94500.0,Senior,Full-Time,Large,Onsite,Manila,94500.0
+SAP,Cyber Security Specialist,60000.0,Mid-Level,Full-Time,Large,Onsite,Manila,60000.0
+Transcendental Meditation,Cyber Security Engineer,10300.0,Entry-Level,Full-Time,Small,Onsite,Manila,10300.0
+DXC Technology,Cyber Security Consultant,169500.0,Senior,Full-Time,Large,Onsite,Manila,169500.0
+cxLoyalty,Cyber Security Engineer,51400.0,Mid-Level,Full-Time,Large,Onsite,Manila,51400.0
+Steadfast,Cyber Security Engineer,96000.0,Senior,Full-Time,Medium,Onsite,Manila,96000.0
+Confidential Practices,Cyber Security Engineer,471500.0,Senior,Full-Time,Large,Onsite,Manila,182500.0
+Union Bank of the Philippines,Cyber Security Engineer,72000.0,Mid-Level,Full-Time,Large,Onsite,Manila,72000.0
+ANZ,Cyber Security Engineer,70000.0,Mid-Level,Full-Time,Large,Onsite,Manila,70000.0
+Inspiro,Cyber Security Engineer,45500.0,Mid-Level,Full-Time,Large,Onsite,Manila,45500.0
+Optum,Cyber Security Engineer,50250.0,Mid-Level,Full-Time,Large,Onsite,Manila,50250.0
+Freelancer,Cyber Security Engineer,70500.0,Mid-Level,Full-Time,Small,Onsite,Manila,70500.0
+Human Managed,Cyber Security Analyst,150000.0,Senior,Full-Time,Small,Onsite,Manila,150000.0
+Wisr (Australia),Cyber Security Analyst,181000.0,Senior,Full-Time,Medium,Onsite,Manila,181000.0
+Sourcepass,Cyber Security Analyst,105000.0,Senior,Full-Time,Medium,Onsite,Manila,105000.0
+Sourcepass,Cyber Security Analyst,83333.0,Senior,Full-Time,Medium,Onsite,Manila,83333.0
+Castelis,Cyber Security Analyst,100500.0,Senior,Full-Time,Small,Onsite,Manila,100500.0
+SecureOps,Cyber Security Analyst,40500.0,Entry-Level,Full-Time,Small,Onsite,Manila,40500.0
+Cato Networks,Cyber Security Analyst,69500.0,Mid-Level,Full-Time,Large,Onsite,Manila,69500.0
+Pldt,Cyber Security Analyst,16000.0,Entry-Level,Full-Time,Large,Onsite,Manila,16000.0
+Kinetic Innovative Staffing,Cyber Security Analyst,62000.0,Mid-Level,Full-Time,Large,Onsite,Manila,62000.0
+Morgan Stanley,Cyber Security Analyst,68500.0,Mid-Level,Full-Time,Large,Onsite,Manila,68500.0
+City Savings Bank,Cyber Security Analyst,48000.0,Mid-Level,Full-Time,Large,Onsite,Manila,48000.0
+Safeway,Cyber Security Analyst,79000.0,Mid-Level,Full-Time,Large,Onsite,Manila,79000.0
+Scalable OS,Cyber Security Analyst,100000.0,Senior,Full-Time,Large,Onsite,Manila,100000.0
+EY GDS (CS) Philippines,Cyber Security Consultant,104167.0,Senior,Full-Time,Large,Onsite,Manila,104167.0
+Armed Forces of the Philippines,Cyber Security Consultant,111750.0,Senior,Full-Time,Large,Onsite,Manila,111750.0
+Next Generation Technologies Global Inc.,SOC Analyst,37500.0,Mid-Level,Full-Time,Medium,Onsite,Quezon City,37500.0
+ITM8 PHILIPPINES INC,Cyber Security Consultant,50000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,50000.0
+Our Clients,SOC Analyst / Incident Response Analyst,45000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,45000.0
+Workscale Resources Inc.,SOC Analyst / Cybersecurity Analyst,60000.0,Mid-Level,Full-Time,Medium,Onsite,Mandaluyong,60000.0
+PT Arbeit Infotech Indonesia,DFIR Analyst (Digital Forensics & Incident Response),40000.0,Mid-Level,Full-Time,Medium,Onsite,Quezon City,40000.0
+National Grid Corporation of the Philippines,"Cybersecurity Governance, Risk and Compliance Analyst",45162.0,Mid-Level,Full-Time,Large,Onsite,Manila,45162.0
+City People Solutions,Cybersecurity Analyst - VAPT,72500.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,72500.0
+Blackpanda,Junior Incident Responder,35000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,35000.0
+TrueNAS,Cybersecurity Specialist,148380.0,Senior,Full-Time,Medium,Onsite,Makati,148380.0
+Continent8,SOC Analyst,50000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,50000.0
+A.G. Datacom Phils.,Technical Engineer (Cybersecurity),30000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,30000.0
+Maroon Studios Inc.,SOC Analyst Level 2,37500.0,Mid-Level,Full-Time,Small,Onsite,Quezon City,37500.0
+ACCRETIO HOLDINGS INC.,IT SOC Analyst,35000.0,Entry-Level,Full-Time,Medium,Onsite,Quezon City,35000.0
+"Siegen HR Solutions, Inc.",Cyber Security Engineer (SIEM),170000.0,Senior,Full-Time,Medium,Onsite,Quezon City,170000.0
+"Siegen HR Solutions, Inc.",Security Engineer (SIEM & SOAR),75000.0,Mid-Level,Full-Time,Medium,Onsite,Taguig,75000.0
+"Radenta Technologies, Inc.",Level 1 Security Analyst,30000.0,Entry-Level,Full-Time,Medium,Onsite,Mandaluyong,30000.0
+Next Generation Technologies Global Inc.,Penetration Tester,37500.0,Mid-Level,Full-Time,Medium,Onsite,Manila,37500.0
+Xtreme Offshore Outsourcing Inc.,Cyber Security Analyst,40000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,40000.0
+SyCip Gorres Velayo & Co.,Cybersecurity Analyst (Vulnerability Detection and Response),48000.0,Mid-Level,Full-Time,Large,Onsite,Makati,48000.0
+Offshore Business Processing,SOC Lead,52500.0,Senior,Full-Time,Large,Onsite,Quezon City,52500.0
+PwC,Cybersecurity Associate,31500.0,Entry-Level,Full-Time,Large,Onsite,Makati,31500.0
+Trend Micro,Cyber Security Engineer (Fresh Graduates),32500.0,Entry-Level,Full-Time,Large,Onsite,Manila,32500.0
+TechTiera Corporation,VAPT Engineer / Penetration Tester,67500.0,Mid-Level,Contract,Medium,Onsite,Makati,67500.0
+Rising Tide Digital Inc.,DevSecOps Engineer - Kubernetes Security,190000.0,Senior,Contract,Medium,Onsite,Taguig,182500.0
+Ben Edictio,Cyber Security Engineering Head,150000.0,Senior,Full-Time,Small,Onsite,Taguig,150000.0
+Next Generation Technologies Global Inc.,Senior Security Solutions Engineer,37500.0,Senior,Full-Time,Medium,Onsite,Manila,37500.0
+Strategic Synergy Inc,Security Engineer,29000.0,Entry-Level,Full-Time,Small,Onsite,Makati,29000.0
+ABBE Technology Solutions,Network Security Engineer,50000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,50000.0
+Next Generation Technologies Global Inc.,Security Solutions Engineer,35000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,35000.0
+Curran Daly and Associates,Security Analyst,100000.0,Senior,Full-Time,Small,Onsite,Pasig,100000.0
+"Trends Group, Inc.",Threat Intelligence Analyst,45000.0,Mid-Level,Full-Time,Large,Onsite,Makati,45000.0
+"BENBY ENTERPRISES, INC",Cloud & Security Engineer,37500.0,Mid-Level,Full-Time,Large,Onsite,Quezon City,37500.0
+Systemantech,IT Security Operations Lead,120000.0,Senior,Full-Time,Medium,Onsite,Pasig,120000.0
+City People Solutions,Offensive Security Engineer (VAPT),72500.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,72500.0
+D2B,AI Security Expert,12500.0,Entry-Level,Full-Time,Small,Onsite,Manila,12500.0
+Next Generation Technologies Global Inc.,Technical Sales Associate (IT Security),30000.0,Entry-Level,Full-Time,Small,Onsite,Manila,30000.0
+Strategic Synergy Inc,Sr. Security Engineer,42500.0,Senior,Full-Time,Small,Onsite,Makati,42500.0
+"Career Professionals, Inc.",Cyber Security Analyst (Mid),65000.0,Mid-Level,Full-Time,Small,Onsite,Quezon City,65000.0
+Tenet Healthcare,Senior Cybersecurity Analyst,81000.0,Senior,Full-Time,Large,Onsite,Taguig,81000.0
+PT Arbeit Infotech Indonesia,DFIR Manager (Digital Forensics & Incident Response),68500.0,Senior,Full-Time,Unknown,Onsite,Quezon City,68500.0
+Rising Tide Digital Inc.,Lead Infrastructure & Network Security (Qualys),130000.0,Senior,Full-Time,Unknown,Onsite,Taguig,130000.0
+"U.S. District Court, Southern District of Ohio",Cyber Security Analyst,25000.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,25000.0
+PNB,Cyber Security Officer,99000.0,Senior,Full-Time,Unknown,Onsite,Manila,99000.0
+foodpanda,Cyber Security Analyst,21000.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,21000.0
+LSEG (London Stock Exchange Group),Cyber Security Analyst,86000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,86000.0
+Department of Information and Communications Technology,Cyber Security Officer,50000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,50000.0
+University of the Cordilleras,Cyber Security Analyst,40000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,40000.0
+Theos Cyber Solutions,Cyber Security Specialist,305000.0,Senior,Full-Time,Unknown,Onsite,Manila,182500.0
+NMG Technologies,Cyber Security Specialist,35000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,35000.0
+Cyber Park,Cyber Security Specialist,15000.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,15000.0
+Trend Micro Inc.,Cyber Security Engineer,34416.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,34416.0
+Trend Micro Inc.,Cyber Security Analyst,57000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,57000.0
+Verizon,Cyber Security Consultant,137000.0,Senior,Full-Time,Unknown,Onsite,Manila,137000.0
+Accenture,Cyber Security Analyst,58000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,58000.0
+EY,Cyber Security Analyst,64000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,64000.0
+SGV & Co.,Cyber Security Consultant,36800.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,36800.0
+SGV & Co.,Cyber Security Analyst,50000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,50000.0
+IBM,Cyber Security Analyst,100000.0,Senior,Full-Time,Unknown,Onsite,Manila,100000.0
+Emapta Versatile Services,Cyber Security Analyst,15500.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,15500.0
+Banco De Oro,Cyber Security Analyst,60000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,60000.0
+Infor,Cyber Security Analyst,133700.0,Senior,Full-Time,Unknown,Onsite,Manila,133700.0
+COR IT Solutions OPC,IT Security Consultant,85000.0,Unknown,Unknown,Unknown,Onsite,Pasig,85000.0
+TrueNAS,Cybersecurity Specialist,148500.0,Unknown,Unknown,Unknown,Onsite,Makati,148500.0
+ESCA Incorporated,Cyber Security Specialist,32500.0,Unknown,Unknown,Unknown,Onsite,Mandaluyong,32500.0
+Rising Tide Digital Inc.,DevSecOps Engineer - Kubernetes Security,190000.0,Unknown,Unknown,Unknown,Onsite,Taguig,182500.0
+GUR LAVI CORP.,Security Engineering Specialist,35000.0,Unknown,Unknown,Unknown,Onsite,San Juan,35000.0
+J-P ENGLISH CORPORATION,Jr. Threat Intelligence Specialist,42500.0,Unknown,Unknown,Unknown,Onsite,Pasay,42500.0
+City People Solutions,Junior VAPT Specialist,65000.0,Unknown,Unknown,Unknown,Onsite,Mandaluyong,65000.0
+City People Solutions,Mid-VAPT Specialist,80000.0,Unknown,Unknown,Unknown,Onsite,Mandaluyong,80000.0
+City People Solutions,Red Team Security Specialist,72500.0,Unknown,Unknown,Unknown,Onsite,Mandaluyong,72500.0
+"BENBY ENTERPRISES, INC",Cloud & Security Engineer,37500.0,Unknown,Unknown,Unknown,Onsite,Quezon City,37500.0
+DAPL IT Services,Security Architect,135000.0,Unknown,Unknown,Unknown,Onsite,Taguig,135000.0
+Ben Edictio,Cyber Security Engineering Head,150000.0,Unknown,Unknown,Unknown,Onsite,Taguig,150000.0
+Tamaray People Solutions Corp,Azure Security Support Engineer,95000.0,Unknown,Unknown,Unknown,Onsite,Quezon City,95000.0
+A.G. Datacom Phils.,Technical Engineer (Cybersecurity),30000.0,Unknown,Unknown,Unknown,Onsite,San Juan,30000.0
+City People Solutions,Cybersecurity Analyst - VAPT,72500.0,Unknown,Unknown,Unknown,Onsite,Pasig,72500.0
+City People Solutions,Junior VAPT Specialist,65000.0,Unknown,Unknown,Unknown,Onsite,Pasig,65000.0
+National Grid Corporation of the Philippines,"(CGRC) Cybersecurity, Governance, Risk and Compliance Senior Specialist",45163.0,Unknown,Full-Time,Unknown,Onsite,San Juan,45163.0
+Workscale Resources Inc.,SOC Analyst / Cybersecurity Analyst,60000.0,Unknown,Unknown,Unknown,Onsite,Mandaluyong,60000.0
+BDO Cruz Marohombsar and Company,Information Security Analyst,29000.0,Unknown,Full-Time,Unknown,Onsite,Makati,29000.0
+Tenet Healthcare,Senior Cybersecurity Analyst,81000.0,Unknown,Full-Time,Unknown,Onsite,Taguig,81000.0
+City People Solutions,Penetration Tester (VAPT),72500.0,Unknown,Full-Time,Unknown,Onsite,Pasig,72500.0
+ESCA Incorporated,Cyber Security Specialist,32500.0,Unknown,Full-Time,Unknown,Onsite,Mandaluyong,32500.0
+"NTT DATA, Inc.",Network Security Engineer (Check Point Specialist),70000.0,Unknown,Full-Time,Unknown,Onsite,Makati,70000.0
+City People Solutions,Mid-VAPT Specialist,80000.0,Unknown,Full-Time,Unknown,Onsite,Pasig,80000.0
+"NTT DATA, Inc.",Network Security Engineer,70000.0,Unknown,Full-Time,Unknown,Onsite,Makati,70000.0
+Tamaray People Solutions Corp,SOC Manager,165000.0,Unknown,Full-Time,Unknown,Onsite,Quezon City,165000.0
+Total Information Management Corp.,Vulnerability and Penetration Tester,50000.0,Unknown,Full-Time,Unknown,Onsite,Makati,50000.0
+Systemantech,IT Security Operations Lead,120000.0,Unknown,Full-Time,Unknown,Onsite,Pasig,120000.0
+Next Generation Technologies Global Inc.,"SOC Analyst (New Manila, Quezon City)",37500.0,Unknown,Full-Time,Unknown,Onsite,Quezon City,37500.0
+Xtreme Offshore Outsourcing Inc.,Cyber Security Analyst,40000.0,Unknown,Unknown,Unknown,Onsite,Makati,40000.0
+ACTIONLAB IT SERVICES PHIL. CORP.,Information Security Analyst - Ortigas,45500.0,Unknown,Unknown,Unknown,Onsite,Pasig,45500.0
+Next Generation Technologies Global Inc.,Cybersecurity Engineer (Pasay),35000.0,Unknown,Unknown,Unknown,Onsite,Pasay,35000.0
+ABBE Technology Solutions,Network Security Engineer,50000.0,Unknown,Full-Time,Unknown,Onsite,Makati,50000.0
+Strategic Synergy Inc,Security Engineer,29000.0,Unknown,Unknown,Unknown,Onsite,Makati,29000.0
+Accion Labs PH,PAM System Engineer,65000.0,Unknown,Full-Time,Unknown,Onsite,Quezon City,65000.0
+Next Generation Technologies Global Inc.,Security Solutions Engineer (Pasay),37500.0,Unknown,Full-Time,Unknown,Onsite,Pasay,37500.0
+Curran Daly and Associates,Security Analyst,100000.0,Unknown,Unknown,Unknown,Onsite,Pasig,100000.0
+COR IT Solutions OPC,IT Security Consultant,85000.0,Senior,Contract,Medium,Onsite,Pasig,85000.0
+J-P ENGLISH CORPORATION,Jr . Threat Intelligence Specialist,42500.0,Entry-Level,Full-Time,Medium,Onsite,Manila,42500.0
+First Metro Securities Brokerage Corporation,Information Security Officer,45000.0,Mid-Level,Full-Time,Large,Onsite,Makati,45000.0
+National Grid Corporation of the Philippines,"(CGRC) Cybersecurity, Governance, Risk and Compliance...",45162.94,Mid-Level,Full-Time,Large,Onsite,Manila,45162.94
+TrueNAS,Cybersecurity Specialist,148380.5,Senior,Full-Time,Medium,Onsite,Makati,148380.5
+Optum,Email Security Engineer,88500.0,Mid-Level,Full-Time,Large,Onsite,Manila,88500.0
+Dempsey Resource Management Inc.,"IT Security Manager - 2 Yrs Experience Ayala Ave., Makati City",50000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,50000.0
+J-K Network Services,Cybersecurity Sales Manager,100000.0,Senior,Full-Time,Medium,Onsite,Makati,100000.0
+Ayuda Business Management Solutions Inc.,Cyber Security Engineer,67500.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,67500.0
+J-K Network Services,Junior Threat Intelligence Analyst | with 6 months experience,45000.0,Entry-Level,Full-Time,Medium,Onsite,Manila,45000.0
+J-K Network Services,Cybersecurity Sales Manager,85000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,85000.0
+Job Vacancy Phil,Cybersecurity Officer in Makati upto 60k,55000.0,Mid-Level,Full-Time,Small,Onsite,Makati,55000.0
+AVENSYS CONSULTING INC.,IT Risk & Audit Specialist,55000.0,Mid-Level,Full-Time,Medium,Onsite,Quezon City,55000.0
+CPS Asia Pacific,Senior IT Audit and Compliance Specialist,120000.0,Senior,Full-Time,Medium,Hybrid,Makati,120000.0
+OVIALAND INC.,Data Protection Officer (DPO),50000.0,Manager,Full-Time,Small,Onsite,Manila,50000.0
+"Philand Security Agency, Inc.",IT Associate,22000.0,Entry-Level,Full-Time,Small,Onsite,Manila,22000.0
+Private Advertiser,IT Auditor,125000.0,Senior,Full-Time,Medium,Hybrid,Makati,125000.0
+"Rising Tide Digital, Inc.",Senior Web Application Penetration Testing Engineer,90000.0,Senior,Full-Time,Small,Onsite,Taguig,90000.0
+Total Integrated Resources Pte Ltd,Senior Software Security Engineer (Linux Appliances),120000.0,Senior,Full-Time,Medium,Onsite,Makati,120000.0
+TD SERVICES PHILIPPINES INCORPORATED,Cloud Security Sales,54000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,54000.0
+"Phoenix One Knowledge Solutions, Inc.",IT Analyst,30000.0,Entry-Level,Full-Time,Small,Onsite,Manila,30000.0
+"Rising Tide Digital, Inc.",Senior Qualys Administrator - Vulnerability Management,85000.0,Senior,Full-Time,Small,Onsite,Manila,85000.0
+"Rising Tide Digital, Inc.","Vice President, Infrastructure and Network Security",135000.0,Executive,Full-Time,Small,Onsite,Taguig,135000.0
+CBRE GWS IFM PHILS. CORP.,Compliance Analyst/Officer,33000.0,Mid-Level,Full-Time,Enterprise,Onsite,Mandaluyong,33000.0
+"Rising Tide Digital, Inc.",Senior Offensive Security Engineer,125000.0,Senior,Full-Time,Small,Onsite,Taguig,125000.0
+"REMOTE STAFF, INC.",Security Engineer 16824,47500.0,Mid-Level,Full-Time,Medium,Onsite,Makati,47500.0
+"Rising Tide Digital, Inc.",Senior Offensive Security Engineer - IT Banking,125000.0,Senior,Full-Time,Small,Onsite,Taguig,125000.0
+Lewis Personnel Management,Head of Security and risk,210000.0,Executive,Full-Time,Medium,Onsite,Manila,182500.0
+"Rising Tide Digital, Inc.",Senior Security Engineer (AI Driven SOC Engineer),95000.0,Senior,Full-Time,Small,Onsite,Taguig,95000.0
+OFFSHORE BUSINESS PROCESSING INC.,SOC Lead,52500.0,Senior,Full-Time,Large,Onsite,Manila,52500.0
+"Labrador Information Transparency Philippines, Inc.",Compliance Officer (URGENT HIRING!!),120000.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,120000.0
+"ACCION LABS PHILIPPINES, INC.",IT Support Specialist - Vulnerability Management & Patching,37500.0,Mid-Level,Contract,Large,Onsite,Manila,37500.0
+Celon Group Limited,Senior Cloud Security Consultant,185000.0,Senior,Full-Time,Medium,Onsite,Manila,182500.0
+"Rising Tide Digital, Inc.",We're Hiring: Senior Cyber Hygiene Engineer,115000.0,Senior,Contract,Small,Onsite,Manila,115000.0
+Gratitude Philippines,Cybersecurity Lead - OT/ICS Security - Cubao Hybrid,132500.0,Senior,Full-Time,Medium,Onsite,Manila,132500.0
+Microbase Inc,Infrastructure and Cybersecurity Support,27500.0,Entry-Level,Full-Time,Medium,Onsite,Manila,27500.0
+PAN ASIA HR CONSULTING PH INC.,Application Security Enablement Engineer,95000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,95000.0
+A.G. Datacom Phils. Inc.,Technical Engineer (Cybersecurity),30000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,30000.0
+Netrust Philippines Corporation,SOC Analyst - Level 2,40000.0,Mid-Level,Full-Time,Small,Onsite,Makati,40000.0
+"Rising Tide Digital, Inc.",Senior Databricks Security Engineer,140000.0,Senior,Full-Time,Small,Onsite,Manila,140000.0
+Dencom Consultancy and Manpower Services,Penetration Tester (Reverse Engineering and Embedded Code Experience),75000.0,Mid-Level,Full-Time,Small,Onsite,Manila,75000.0
+Gratitude Jobs Ahead HR Inc,Information Security Manager,72500.0,Senior,Full-Time,Small,Onsite,Taguig,72500.0
+Risewave Consulting Inc.,Cyber Security Analyst - HYBRID 3X ONSITE,92500.0,Senior,Full-Time,Large,Onsite,Quezon City,92500.0
+Tradex Network Inc.,Cyber Security Engineer,95000.0,Senior,Full-Time,Small,Onsite,Pasay,95000.0
+Gratitude Jobs Ahead HR Inc,Information Security Analyst | Hybrid in Taguig,72500.0,Senior,Full-Time,Small,Onsite,Taguig,72500.0
+Top Bank Philippines,Security Management Officer,35000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,35000.0
+Microgenesis Business Systems,Security Operations Center (SOC) Analyst,22500.0,Mid-Level,Full-Time,Medium,Onsite,Mandaluyong,22500.0
+EBM Talent Bucket Inc.,Risk And Compliance Officer,50000.0,Mid-Level,Full-Time,Small,Onsite,Makati,50000.0
+E-Solutions IT Services,Data Loss Prevention Analyst II,90000.0,Mid-Level,Full-Time,Small,Onsite,Mandaluyong,90000.0
+JetSon Manpower Agency,Security Engineer,95000.0,Mid-Level,Full-Time,Medium,Onsite,Manila,95000.0
+PRL SpeedUp Inc.,Network Security Officer,35000.0,Mid-Level,Full-Time,Medium,Onsite,Pasig,35000.0
+WHR Global Consulting,Risk and Compliance Officer,60000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,60000.0
+Ant Colony Resources,Cybersecurity Manager,50000.0,Mid-Level,Full-Time,Small,Onsite,Pasig,50000.0
+Dynamic Talent Solutions,Solutions Architect III (Cloud Security Architect ) - Hybrid,170000.0,Senior,Contract,Small,Onsite,Taguig,170000.0
+Ant Colony Resources,Cyber Security Engineer,47500.0,Entry-Level,Full-Time,Small,Onsite,Makati,47500.0
+Gratitude Jobs Ahead HR Inc,Security Managed Services Practitioner,100000.0,Mid-Level,Full-Time,Small,Onsite,Taguig,100000.0
+Gratitude Jobs Ahead HR Inc,Information Security Analyst,72500.0,Entry-Level,Full-Time,Small,Onsite,Taguig,72500.0
+Microgenesis Business Systems,Cybersecurity Specialist,17500.0,Entry-Level,Full-Time,Medium,Onsite,Mandaluyong,17500.0
+J-K Network Services,Junior Vulnerability Analyst,45000.0,Entry-Level,Full-Time,Medium,Onsite,Pasay,45000.0
+Sterling Global Call Center Inc.,Cyber Security Specialist,75000.0,Mid-Level,Contract,Enterprise,Onsite,Pasig,75000.0
+CBASC Enterprises,Cyber Security Engineer,55000.0,Entry-Level,Full-Time,Small,Onsite,Mandaluyong,55000.0
+Ant Colony Resources,Cyber Security Engineer,47500.0,Entry-Level,Full-Time,Small,Onsite,Mandaluyong,47500.0
+TerraBarn Inc.,Data Privacy & Compliance Analyst | Onsite,65000.0,Entry-Level,Contract,Medium,Onsite,Taguig,65000.0
+Dempsey Resource Management Inc.,"IT Security Manager - 2 Yrs Experience Ayala Ave., Makati City",50000.0,Entry-Level,Full-Time,Medium,Onsite,Makati,50000.0
+"Dynamicminds Business Solutions, Inc",Soc Analyst L1,22500.0,Entry-Level,Full-Time,Small,Onsite,Paranaque,22500.0
+eTap Inc.,Information Security Analyst,45000.0,Mid-Level,Full-Time,Enterprise,Onsite,Makati,45000.0
+Metacom Careers,Security Engineer (SIEM & SOAR),125000.0,Senior,Full-Time,Medium,Onsite,Quezon City,125000.0
+Metropolitan Medical Center,Data Privacy Officer,27500.0,Entry-Level,Full-Time,Enterprise,Onsite,Manila,27500.0
+Cambridge University Press & Assessment | Manila,Senior Security Analyst,123000.0,Senior,Full-Time,Enterprise,Onsite,Makati,123000.0
+OFFSHORE BUSINESS PROCESSING INC.,Lead SOC Analyst,52500.0,Senior,Full-Time,Medium,Onsite,Quezon City,52500.0
+Strategem Ventures Management Inc.,Cyber Security Engineer,21500.0,Mid-Level,Full-Time,Small,Onsite,Manila,21500.0
+Emapta,Information Security Risk Analyst | Hybrid | Weekends Off | Up to PHP150K,150000.0,Senior,Full-Time,Enterprise,Onsite,Mandaluyong,150000.0
+BLADEGRASS TECHNOLOGIES INC.,Security Operation Center (SOC) Analyst,45000.0,Mid-Level,Full-Time,Small,Onsite,Taguig,45000.0
+Arbeit Infotech,DFIR Analyst (Digital Forensics & Incident Response),42500.0,Mid-Level,Contract,Small,Onsite,Quezon City,42500.0
+BLADEGRASS TECHNOLOGIES INC.,Cybersecurity Engineer/Security Engineer,52500.0,Mid-Level,Contract,Small,Onsite,Taguig,52500.0
+Eastvantage Business Solutions Inc.,Cybersecurity Compliance Analyst (ISO 27001),62500.0,Mid-Level,Full-Time,Medium,Onsite,Taguig,62500.0
+iXsystems,Cybersecurity Specialist,148380.5,Senior,Full-Time,Medium,Onsite,Makati,148380.5
+Pluxee Philippines Incorporated,Local Cybersecurity Officer,75000.0,Mid-Level,Full-Time,Enterprise,Onsite,Makati,75000.0
+Private Advertiser,SOC Analyst (Tier 1),27500.0,Entry-Level,Contract,Small,Onsite,Manila,27500.0
+ReSource Pro Operational Solutions Philippines Inc.,"Information Security, Senior Specialist (Work from Home)",110000.0,Senior,Full-Time,Medium,Onsite,Manila,110000.0
+Asticom Technology Inc,SECURITY OPERATIONS CENTER (SOC),47500.0,Mid-Level,Contract,Medium,Onsite,Manila,47500.0
+Emapta,Cyber Security Operations Analyst,200000.0,Mid-Level,Full-Time,Enterprise,Onsite,Mandaluyong,182500.0
+MedGrocer,Senior Systems & AI Solutions...,70000.0,Mid-Level,Full-Time,Medium,Onsite,Makati,70000.0
+MedGrocer,IT Director | Makati,125000.0,Executive,Full-Time,Medium,Onsite,Makati,125000.0
+WIBS PHP INC.,Risk Management Officer,55000.0,Mid-Level,Full-Time,Small,Onsite,Makati,55000.0
+,VAPT Engineer,65000.0,Entry-Level,Full-Time,Enterprise,Onsite,Makati,65000.0
+TradeX Network Inc.,Cybersecurity Officer,90000.0,Mid-Level,Full-Time,Small,Onsite,Pasay,90000.0
+WAGMI Solutions,Cloud Security Project Engineer,470577.0,Entry-Level,Full-Time,Small,Onsite,Makati,182500.0
+,Cybersecurity / IT Security Analyst,27500.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,27500.0
+,Security / Network Engineer,55000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,55000.0
+,Penetration Tester / Ethical Hacker,55000.0,Senior,Full-Time,Unknown,Onsite,Manila,55000.0
+,Information Security Officer (ISO) / Lead Architect,100000.0,Senior,Full-Time,Unknown,Onsite,Manila,100000.0
+,Cybersecurity / IT Security Analyst,27500.0,Unknown,Full-Time,Unknown,Onsite,Manila,27500.0
+,(Cyber Security / InfoSec Analyst),27500.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,27500.0
+,Security Engineer / Information Security Officer,57500.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,57500.0
+,"Specialized Roles (Penetration Tester, Security Architect, Lead ISO)",105000.0,Senior,Full-Time,Unknown,Onsite,Manila,105000.0
+,(Junior Security Analyst / SOC Analyst),35000.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,35000.0
+,Mid-Level (Cybersecurity Engineer / Penetration Tester / ISO),70000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,70000.0
+,Senior / Management Level (IT Security Manager / Governance Lead / CISO),140000.0,Senior,Full-Time,Unknown,Onsite,Manila,140000.0
+,Cyber Security Analyst / Information Security Analyst,40000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,40000.0
+,Cyber Security Consultant / Specialist,67500.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,67500.0
+,Cybersecurity Manager / Senior Leadership,185000.0,Senior,Full-Time,Unknown,Onsite,Manila,182500.0
+,"Junior cyber analyst, compliance support",25000.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,25000.0
+,"Junior Level (SOC coverage, endpoint/network security operations)",52500.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,52500.0
+,"Mid-Level (Independent incident handling, VAPT, pen testing, DevSecOps)",90000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,90000.0
+,"Senior Level (Senior SOC/appsec, incident response leadership)",125000.0,Senior,Full-Time,Unknown,Onsite,Manila,125000.0
+,Cyber Security Analyst / Information Security Analyst,38000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,38000.0
+,Cyber Security Specialist,58000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,58000.0
+,Penetration Tester,75000.0,Senior,Full-Time,Unknown,Onsite,Manila,75000.0
+,Security Engineer / Cyber Security Engineer,58330.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,58330.0
+,Cyber Security Consultant,69333.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,69333.0
+,Cybersecurity Manager / CISO,102606.0,Senior,Full-Time,Unknown,Onsite,Manila,102606.0
+,Entry-Level Cybersecurity Roles,32500.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,32500.0
+,Mid-Level Cybersecurity Roles,70000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,70000.0
+,Senior / Lead / Management Roles,200000.0,Senior,Full-Time,Unknown,Onsite,Manila,182500.0
+,Cyber Security Analyst / Information Security Analyst,31250.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,31250.0
+,Security Engineer / Cyber Security Engineer,58292.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,58292.0
+,Information Security Officer (ISO),54000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,54000.0
+,Cybersecurity Manager,200000.0,Senior,Full-Time,Unknown,Onsite,Manila,182500.0
+,Junior Cybersecurity Roles (Analyst / Specialist),40000.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,40000.0
+,Cybersecurity Engineer / VAPT Engineer,110000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,110000.0
+,SOC Analyst / Incident Response (Mid-level),110000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,110000.0
+,Cybersecurity Specialist / GRC Analyst,124000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,124000.0
+,Lead / Specialized / Senior Roles (Multinationalls),215000.0,Senior,Full-Time,Unknown,Onsite,Manila,182500.0
+,IT Risk / Security Manager,166500.0,Senior,Full-Time,Unknown,Onsite,Manila,166500.0
+,Cybersecurity Consultant,133000.0,Senior,Full-Time,Unknown,Onsite,Manila,133000.0
+,Chief Information Security Officer (CISO),430000.0,Executive,Full-Time,Unknown,Onsite,Manila,182500.0
+,Entry-Level / Junior Security Analyst,31250.0,Entry-Level,Full-Time,Unknown,Onsite,Manila,31250.0
+,Cybersecurity Analyst / Information Security Analyst,45500.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,45500.0
+,Security Engineer / Penetration Tester,75000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,75000.0
+,Information Security Officer (ISO) / Cyber Risk Consultant,95833.33,Senior,Full-Time,Unknown,Onsite,Manila,95833.33
+,Senior Management / CISO / Head of Information Security,187500.0,Executive,Full-Time,Unknown,Onsite,Manila,182500.0
+,Cyber Security Analyst,55000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,55000.0
+,Cyber Security Engineer / Security Engineer,80000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,80000.0
+,Information Security Officer (ISO),54062.5,Mid-Level,Full-Time,Unknown,Onsite,Manila,54062.5
+,Penetration Tester,28453.25,Mid-Level,Full-Time,Unknown,Onsite,Manila,28453.25
+,Mid to Senior-Level / Security Architects / CISOs,185000.0,Senior,Full-Time,Unknown,Onsite,Manila,182500.0
+,Cybersecurity Manager,108493.38,Senior,Full-Time,Unknown,Onsite,Manila,108493.38
+,"SOC L1 & L2 PH — MSSP Role, Manila",80000.0,Mid-Level,Full-Time,Unknown,Onsite,Manila,80000.0
+National Grid Corporation of the Philippines,"(CGRC) Cybersecurity, Governance, Risk and Complianc...",45162.945,Mid-Level,Full-Time,Unknown,Onsite,San Juan,45162.945
+TrueNAS,Cybersecurity Specialist,148380.5,Mid-Level,Full-Time,Unknown,Onsite,Makati,148380.5
+,Cybersecurity Analyst - VAPT,72500.0,Mid-Level,Full-Time,Unknown,Onsite,Pasig,72500.0
+"Ascent Solutions Philippines, Inc.",Security Specialist,85000.0,Mid-Level,Full-Time,Unknown,Onsite,Pasay,85000.0
+A.G. Datacom Phils.,Technical Engineer (Cybersecurity),30000.0,Mid-Level,Full-Time,Unknown,Onsite,San Juan,30000.0
+J-P ENGLISH CORPORATION,Threat Intelligence Analyst - Hybrid,45000.0,Mid-Level,Full-Time,Unknown,Onsite,Pasay,45000.0
+Tenet Healthcare,Senior Cybersecurity Analyst,81000.0,Senior,Full-Time,Unknown,Onsite,Taguig,81000.0
+First Metro Securities Brokerage Corporation,Information Security Officer,45000.0,Mid-Level,Full-Time,Unknown,Onsite,Makati,45000.0
+BDO Cruz Marohombsar and Company,Information Security Analyst,29000.0,Mid-Level,Full-Time,Unknown,Onsite,Makati,29000.0
+COR IT Solutions OPC,IT Security Consultant,85000.0,Mid-Level,Contract,Unknown,Onsite,Pasig,85000.0
+ESCA Incorporated,Cyber Security Specialist,32500.0,Mid-Level,Full-Time,Unknown,Onsite,Mandaluyong,32500.0
+Tamaray People Solutions Corp.,SOC Manager,165000.0,Senior,Full-Time,Unknown,Onsite,Quezon City,165000.0
+MurphLab Business Consultancy,Identity and Access Management Engineering (IAM)- Senior...,90000.0,Senior,Full-Time,Unknown,Onsite,Manila,90000.0
+Octal Philippines Inc.,IR Analyst - Security Developer,55000.0,Mid-Level,Full-Time,Unknown,Onsite,Makati,55000.0
+eClerx,Senior Network Analyst,40000.0,Senior,Full-Time,Unknown,Onsite,Muntinlupa,40000.0
+Maroon Studios Inc.,SOC Analyst Level 2,37500.0,Mid-Level,Full-Time,Unknown,Onsite,Quezon City,37500.0
+ACTIONLAB IT SERVICES PHIL. CORP.,Information Security Analyst - Ortigas (Day Shift | Hybrid),45500.0,Mid-Level,Full-Time,Unknown,Onsite,Pasig,45500.0
+GUR LAVI CORP.,Security Engineering Specialist,35000.0,Mid-Level,Full-Time,Unknown,Onsite,San Juan,35000.0
+"Siegen HR Solutions, Inc.",Security Engineer (SIEM & SOAR),75000.0,Mid-Level,Full-Time,Unknown,Onsite,Taguig,75000.0
+Walter Mart Supermarket,IT Security Analyst,32500.0,Mid-Level,Full-Time,Unknown,Onsite,Quezon City,32500.0
+"Tamaray People Solutions Corp,",SOC Manager,165000.0,Senior,Full-Time,Unknown,Onsite,Quezon City,165000.0
+Next Generation Technologies Global Inc.,Cybersecurity Engineer (Pasay),35000.0,Mid-Level,Full-Time,Unknown,Onsite,Pasay,35000.0
+Next Generation Technologies Global Inc.,Senior Security Solutions Engineer,37500.0,Senior,Full-Time,Unknown,Onsite,Marikina,37500.0
+Curran Daly and Associates,Security Analyst,100000.0,Mid-Level,Full-Time,Unknown,Onsite,Pasig,100000.0
+Next Generation Technologies Global Inc.,Penetration Tester,37500.0,Mid-Level,Full-Time,Unknown,Onsite,Marikina,37500.0
+Strategic Synergy Inc,Security Engineer,29000.0,Mid-Level,Full-Time,Unknown,Onsite,Makati,29000.0
+Strategic Synergy Inc,Sr. Security Engineer,42500.0,Senior,Full-Time,Unknown,Onsite,Makati,42500.0
+Offshore Business Processing,SOC Analyst,45000.0,Mid-Level,Full-Time,Unknown,Onsite,Quezon City,45000.0
+Offshore Business Processing,SOC Lead,52500.0,Senior,Full-Time,Unknown,Onsite,Quezon City,52500.0
+Converge Studios Inc.,SOC Analyst Level 2,37500.0,Mid-Level,Full-Time,Unknown,Onsite,Quezon City,37500.0
+Converge Studios Inc.,IT Project Manager - (Cybersecurity),75000.0,Senior,Full-Time,Unknown,Onsite,Quezon City,75000.0
+ABBE Technology Solutions,Network Security Engineer,50000.0,Mid-Level,Unknown,Unknown,Onsite,Makati,50000.0
+PT Arbeit Infotech Indonesia,DFIR Analyst (Digital Forensics & Incident Response),40000.0,Mid-Level,Unknown,Unknown,Onsite,Quezon City,40000.0
+GUR LAVI CORP.,Security Engineering Specialist,35000.0,Mid-Level,Unknown,Unknown,Onsite,San Juan,35000.0
+HRTX,Associate - Technology Risk Consulting & IT Auditors,30000.0,Entry-Level,Unknown,Unknown,Onsite,Makati,30000.0
+Rising Tide Digital Inc.,DevSecOps Engineer - Kubernetes Security,190000.0,Senior,Unknown,Unknown,Onsite,Taguig,182500.0
+Optimum Source Inc.,"Network and Security Engineer (Hybrid 2x onsite, Ortigas Ctr 2+yrs)",35000.0,Mid-Level,Unknown,Unknown,Onsite,Mandaluyong,35000.0
+"Siegen HR Solutions, Inc.",Cyber Security Engineer (SIEM),170000.0,Senior,Unknown,Unknown,Onsite,Quezon City,170000.0
+Next Generation Technologies Global Inc.,Cybersecurity Engineer (Pasay),35000.0,Mid-Level,Unknown,Unknown,Onsite,Pasay,35000.0
+Offshore Business Processing,SOC Lead,52500.0,Senior,Unknown,Unknown,Onsite,Quezon City,52500.0
